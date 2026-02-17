@@ -1,0 +1,3 @@
+myfeature file added
+
+second file added commit cheking
